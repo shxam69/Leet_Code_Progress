@@ -12,6 +12,7 @@
 </pre>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
+<br>
 
 <ul>
 	<li><code>1 &lt;= numRows &lt;= 30</code></li>
